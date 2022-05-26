@@ -9,8 +9,8 @@ on:
         - main
 
 env:
-  LOAD_TEST_RESOURCE: "nlmohammed"
-  LOAD_TEST_RESOURCE_GROUP: "nlmohammed-rg"
+  LOAD_TEST_RESOURCE: "NL-hackathon-alt"
+  LOAD_TEST_RESOURCE_GROUP: "Sample-ALT"
   ENDPOINT_URL: "nlmohammed.azurewebsites.net"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
