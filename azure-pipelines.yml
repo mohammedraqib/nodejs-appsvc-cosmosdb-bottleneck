@@ -14,7 +14,7 @@ variables:
   serviceConnection: '<Name of your webARM Service connection>'
   azureSubscriptionId: '<Azure subscriptionId>'
   loadTestResource: '<Name of your load test resource>'
-  loadTestResourceGroup: '<Name of your load test resource group>'
+  loadTestResourceGroup: '<Name  of your load test resource group>'
   location: 'EAST US'
 
 
